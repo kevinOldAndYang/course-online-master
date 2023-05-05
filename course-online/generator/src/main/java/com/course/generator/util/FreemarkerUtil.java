@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.Map;
 
 public class FreemarkerUtil {
-    static String ftlPath = "/Users/zhangjingwang/opt/workspace/course-online-master/course-online/generator/src/main/java/com/course/generator/ftl/";
+    static String ftlPath = "/Users/zhangjingwang/opt/localWorkspace/course-online-master/course-online/generator/src/main/java/com/course/generator/ftl/";
 
     static Template temp;
 

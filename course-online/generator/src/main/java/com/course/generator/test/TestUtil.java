@@ -12,8 +12,8 @@ import java.io.IOException;
 
 public class TestUtil {
 
-    static String ftlPath = "/Users/zhangjingwang/opt/workspace/course-online-master/course-online/generator/src/main/java/com/course/generator/test/";
-    static String toPath = "/Users/zhangjingwang/opt/workspace/course-online-master/course-online/generator/src/main/java/com/course/generator/test/";
+    static String ftlPath = "/Users/zhangjingwang/opt/localWorkspace/course-online-master/course-online/generator/src/main/java/com/course/generator/test/";
+    static String toPath = "/Users/zhangjingwang/opt/localWorkspace/course-online-master/course-online/generator/src/main/java/com/course/generator/test/";
 
     public static void main(String[] args) throws IOException, TemplateException {
         Configuration cfg = new Configuration(Configuration.VERSION_2_3_29);

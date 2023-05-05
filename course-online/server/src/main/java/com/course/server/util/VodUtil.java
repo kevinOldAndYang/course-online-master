@@ -159,7 +159,7 @@ public class VodUtil {
         //您的AccessKeySecret
         String accessKeySecret = "yQqZJ0WGnyAxaT9Gy1mKIJXY68F6A6";
         //需要上传到VOD的本地视频文件的完整路径，需要包含文件扩展名
-        String localFile = "D:\\imooc\\course\\workspace\\course\\admin\\public\\static\\image\\小节视频\\test.mp4";
+        String localFile = "D:\\imooc\\course\\localWorkspace\\course\\admin\\public\\static\\image\\小节视频\\test.mp4";
         try {
             // 初始化VOD客户端并获取上传地址和凭证
             DefaultAcsClient vodClient = initVodClient(accessKeyId, accessKeySecret);
