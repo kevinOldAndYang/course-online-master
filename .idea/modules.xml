@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/course-online/business/business.iml" filepath="$PROJECT_DIR$/course-online/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-online/course.iml" filepath="$PROJECT_DIR$/course-online/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/course-online-master.iml" filepath="$PROJECT_DIR$/.idea/course-online-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-online/eureka/eureka.iml" filepath="$PROJECT_DIR$/course-online/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-online/file/file.iml" filepath="$PROJECT_DIR$/course-online/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-online/gateway/gateway.iml" filepath="$PROJECT_DIR$/course-online/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-online/generator/generator.iml" filepath="$PROJECT_DIR$/course-online/generator/generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-online/server/server.iml" filepath="$PROJECT_DIR$/course-online/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-online/system/system.iml" filepath="$PROJECT_DIR$/course-online/system/system.iml" />
+    </modules>
+  </component>
+</project>
